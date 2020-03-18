@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gil121983/react-todo.git/static/css/main.ee1e218b.chunk.css",
-    "main.js": "/gil121983/react-todo.git/static/js/main.b7228c4e.chunk.js",
-    "main.js.map": "/gil121983/react-todo.git/static/js/main.b7228c4e.chunk.js.map",
-    "runtime-main.js": "/gil121983/react-todo.git/static/js/runtime-main.df8c50c2.js",
-    "runtime-main.js.map": "/gil121983/react-todo.git/static/js/runtime-main.df8c50c2.js.map",
-    "static/js/2.0b0da5c8.chunk.js": "/gil121983/react-todo.git/static/js/2.0b0da5c8.chunk.js",
-    "static/js/2.0b0da5c8.chunk.js.map": "/gil121983/react-todo.git/static/js/2.0b0da5c8.chunk.js.map",
-    "index.html": "/gil121983/react-todo.git/index.html",
-    "precache-manifest.30ebd21db2e19f6c9bd626ede222ff12.js": "/gil121983/react-todo.git/precache-manifest.30ebd21db2e19f6c9bd626ede222ff12.js",
-    "service-worker.js": "/gil121983/react-todo.git/service-worker.js",
-    "static/css/main.ee1e218b.chunk.css.map": "/gil121983/react-todo.git/static/css/main.ee1e218b.chunk.css.map",
-    "static/js/2.0b0da5c8.chunk.js.LICENSE.txt": "/gil121983/react-todo.git/static/js/2.0b0da5c8.chunk.js.LICENSE.txt"
+    "main.css": "/gil121983/react-todo/static/css/main.ee1e218b.chunk.css",
+    "main.js": "/gil121983/react-todo/static/js/main.c7bdf15f.chunk.js",
+    "main.js.map": "/gil121983/react-todo/static/js/main.c7bdf15f.chunk.js.map",
+    "runtime-main.js": "/gil121983/react-todo/static/js/runtime-main.19d3a21c.js",
+    "runtime-main.js.map": "/gil121983/react-todo/static/js/runtime-main.19d3a21c.js.map",
+    "static/js/2.0b0da5c8.chunk.js": "/gil121983/react-todo/static/js/2.0b0da5c8.chunk.js",
+    "static/js/2.0b0da5c8.chunk.js.map": "/gil121983/react-todo/static/js/2.0b0da5c8.chunk.js.map",
+    "index.html": "/gil121983/react-todo/index.html",
+    "precache-manifest.e4a4a5d064ebfa7e99a65d4864ec19f7.js": "/gil121983/react-todo/precache-manifest.e4a4a5d064ebfa7e99a65d4864ec19f7.js",
+    "service-worker.js": "/gil121983/react-todo/service-worker.js",
+    "static/css/main.ee1e218b.chunk.css.map": "/gil121983/react-todo/static/css/main.ee1e218b.chunk.css.map",
+    "static/js/2.0b0da5c8.chunk.js.LICENSE.txt": "/gil121983/react-todo/static/js/2.0b0da5c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.df8c50c2.js",
+    "static/js/runtime-main.19d3a21c.js",
     "static/js/2.0b0da5c8.chunk.js",
     "static/css/main.ee1e218b.chunk.css",
-    "static/js/main.b7228c4e.chunk.js"
+    "static/js/main.c7bdf15f.chunk.js"
   ]
 }
